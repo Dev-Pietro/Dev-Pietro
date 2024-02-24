@@ -9,7 +9,7 @@ Atualmente estudando:
 Conhecimentos:
 <ul>
   <li>PHP, Python, JavaScript, HTML, CSS </li>
-  <li>Idiomas: <img src="https://discord.com/assets/1a28938688362b72267f.svg"></li>
+  <li>Idiomas: <img src="https://discord.com/assets/1a28938688362b72267f.svg" height="20px"></li>
 </ul>
 <hr>
 <!---
