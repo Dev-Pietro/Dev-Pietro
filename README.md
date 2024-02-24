@@ -7,7 +7,7 @@
   <li>Git;</li>
 </ul>
 <h4>Conhecimentos:</h4>
-<ul>
+<ul align="right">
   <li>PHP, Python, JavaScript, HTML, CSS; </li>
   <li>Idiomas: Pt-BR, Inglês, Espanhol.</li>
 </ul>
