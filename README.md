@@ -6,7 +6,7 @@
   <li>.NET;</li>
   <li>Git;</li>
 </ul>
-<h4>Conhecimentos:</h4>
+<h4 align="right">Conhecimentos:</h4>
 <ul align="right">
   <li>PHP, Python, JavaScript, HTML, CSS; </li>
   <li>Idiomas: Pt-BR, Inglês, Espanhol.</li>
