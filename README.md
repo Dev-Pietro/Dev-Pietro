@@ -9,7 +9,7 @@ Atualmente estudando:
 Conhecimentos:
 <ul>
   <li>PHP, Python, JavaScript, HTML, CSS</li>
-  <li>Idiomas: <img src="https://emojiguide.com/wp-content/uploads/platform/twitter/44356.png"> <img src= "https://emojiguide.com/wp-content/uploads/platform/twitter/43751.png"> <img src="https://emojiguide.com/wp-content/uploads/platform/twitter/43791.png"></li>
+  <li>Idiomas: <img src="https://emojiguide.com/wp-content/uploads/platform/twitter/44356.png" height="30px"> <img src= "https://emojiguide.com/wp-content/uploads/platform/twitter/43751.png" height="30px"> <img src="https://emojiguide.com/wp-content/uploads/platform/twitter/43791.png" height="30px"></li>
 </ul>
 <!---
 Gowtch/Gowtch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
