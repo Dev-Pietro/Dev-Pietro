@@ -2,14 +2,14 @@
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">!</h1>
 <h4>Atualmente estudando:</h4>
 <ul>
-  <li>C#</li>
-  <li>.NET</li>
-  <li>Git</li>
+  <li>C#;</li>
+  <li>.NET;</li>
+  <li>Git;</li>
 </ul>
 <h4>Conhecimentos:</h4>
 <ul>
-  <li>PHP, Python, JavaScript, HTML, CSS </li>
-  <li>Idiomas: Pt-BR, Inglês, Espanhol</li>
+  <li>PHP, Python, JavaScript, HTML, CSS; </li>
+  <li>Idiomas: Pt-BR, Inglês, Espanhol.</li>
 </ul>
 <hr>
 <!---
