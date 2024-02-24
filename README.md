@@ -1,6 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------
-<h1>Gabriel Pietro</h1>
-<h2>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">!</h2>
+<h1>Gabriel Pietro</h1> <h2>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">!</h2>
 - 🤖 Tecnology Enthusiast
 - 😴 Brazilian
 
