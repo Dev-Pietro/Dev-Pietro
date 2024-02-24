@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------
-<h1>Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"></h1>
+<h1>Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 - 🤖 Tecnology Enthusiast
 - 😴 Brazilian
 ----------------------------------------------------------------------------------------------------------------
