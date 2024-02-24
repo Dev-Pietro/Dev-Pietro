@@ -9,8 +9,7 @@ Atualmente estudando:
 Conhecimentos:
 <ul>
   <li>PHP, Python, JavaScript, HTML, CSS</li>
-  <li>Idiomas: ![image](https://github.com/Dev-Pietro/Dev-Pietro/assets/89225819/5a396468-90c1-43a9-8049-461e447543e7)
-</li>
+  <li>Idiomas: <img src="https://emojiguide.com/wp-content/uploads/platform/twitter/44356.png"></li>
 </ul>
 <!---
 Gowtch/Gowtch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
