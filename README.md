@@ -11,7 +11,10 @@
 </ul>
 <hr></hr>
 
-![Gabriel Pietro GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-pietro&show_icons=true&theme=tokyonight)
+![Gabriel Pietro GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-pietro&hide=contribs,prs&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pietro&layout=compact&theme=github_dark)
+
 
 
 <!---
