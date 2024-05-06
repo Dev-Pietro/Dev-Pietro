@@ -2,6 +2,7 @@
 <h4>Atualmente estudando:</h4> 
 <ul>
   <li>C#/ASP Net;</li>
+  <li>APIs;</li>
   <li>SQL</li>
 </ul>
 <h4>Conhecimentos:</h4> 
