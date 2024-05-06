@@ -1,8 +1,8 @@
 ----------------------------------------------------------------------------------------------------------------
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">!</h1>
-<h4>Atualmente estudando:</h4> C#/ASP Net, SQL
-<h4>Conhecimentos:</h4> PHP, Python, JavaScript, HTML, CSS
-<h4>Idiomas:</h4> Pt-BR, Inglês, Espanhol
+<h4>Atualmente estudando:</h4><ul><li>C#/ASP Net, SQL</li></ul>
+<h4>Conhecimentos:</h4><ul><li>PHP, Python, JavaScript, HTML, CSS</li></ul>
+<h4>Idiomas:</h4><ul><li>Pt-BR, Inglês, Espanhol</li></ul>
 <hr>
 <!---
 Gowtch/Gowtch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
