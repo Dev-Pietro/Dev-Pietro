@@ -1,13 +1,7 @@
 <h1>Olá !👋</h1>
-<h4>Atualmente estudando:</h4> 
-<ul>
-  <li>C#/ASP Net;</li>
-  <li>APIs;</li>
-  <li>SQL</li>
-</ul>
 <h4>Conhecimentos:</h4> 
 <ul>
-  <li>Langs: PHP, Python, JavaScript, HTML, CSS;</li>
+  <li>Langs: PHP, C#, Python, JavaScript, HTML, CSS;</li>
   <li>Idiomas: Pt-BR, Inglês, Espanhol</li>
 </ul>
 <hr></hr>
