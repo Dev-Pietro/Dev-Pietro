@@ -1,7 +1,7 @@
 <h1>Olá !👋</h1>
 <h4>Conhecimentos:</h4> 
 <ul>
-  <li>Langs: PHP, C#, Python, JavaScript, HTML, CSS;</li>
+  <li>Langs: PHP, C#, JavaScript, HTML, CSS;</li>
   <li>Idiomas: Pt-BR, Inglês, Espanhol</li>
 </ul>
 <hr></hr>
